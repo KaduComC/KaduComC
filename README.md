@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 <div>
    <a href="https://github.com/KaduComC">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KaduComC&count_private=true&show_icons=true&theme=highcontrast" />
-    <img height="180em" width="520" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaduComC&layout=compact&langs_count=16&theme=highcontrast" />   
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaduComC&layout=compact&langs_count=16&theme=highcontrast" />   
 </div>
   
 ##
