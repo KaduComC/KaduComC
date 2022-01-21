@@ -41,6 +41,6 @@ A little about me:<br/>
 ##
 
 <div align="center">
-   ![Snake animation](https://raw.githubusercontent.com/KaduComC/KaduComC/output/github-contribution-grid-snake.svg)
+   ![Snake animation](https://github.com/KaduComC/KaduComC/blob/output/github-contribution-grid-snake.svg)
 </div>
 
