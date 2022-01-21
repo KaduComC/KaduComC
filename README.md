@@ -38,4 +38,8 @@ A little about me:<br/>
    ⚡- The Witcher 3 is the best game of the century.<br/>
    ⚡- Pearl Jam is the best band in the universe.<br/>
 
+##
 
+<div align="center">
+   ![Snake animation](https://github.com/KaduComC/KaduComC/blob/output/github-contribution-grid-snake.svg)
+</div>
