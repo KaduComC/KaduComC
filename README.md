@@ -14,19 +14,6 @@
 
 ##
 
-Olá, me chamo Carlos Eduardo (Kadu / Cadu)<br/>
-Sou estudante do curso de Sistemas de Informação na Universidade Estadual de Goiás - UEG<br/>
-<br/>
-Um pouco sobre mim:<br/>
-   💼- Estagiei na empresa SIGMA Sistemas, localizada na cidade de Itaberaí.<br/>
-   📘- Atualmente estudando Python.<br/>
-   ⚡- Gosto muito de ler, FUNDAÇÃO, Torre Negra e Senhor dos Anéis são meus livros favoritos.<br/>
-   ⚡- How I Met Your Mother é a melhor série já feita.<br/>
-   ⚡- The Witcher 3 é o melhor jogo do século.<br/>
-   ⚡- Pearl Jam é a melhor bando do universo.<br/>
-
-##
-
 Hello, my name is Carlos Eduardo (Kadu / Cadu)<br/>
 I am a student of the Information Systems course at the State University of Goiás - UEG<br/>
 <br/>
@@ -40,6 +27,18 @@ A little about me:<br/>
 
 ##
 
+Olá, me chamo Carlos Eduardo (Kadu / Cadu)<br/>
+Sou estudante do curso de Sistemas de Informação na Universidade Estadual de Goiás - UEG<br/>
+<br/>
+Um pouco sobre mim:<br/>
+   💼- Estagiei na empresa SIGMA Sistemas, localizada na cidade de Itaberaí.<br/>
+   📘- Atualmente estudando Python.<br/>
+   ⚡- Gosto muito de ler, FUNDAÇÃO, Torre Negra e Senhor dos Anéis são meus livros favoritos.<br/>
+   ⚡- How I Met Your Mother é a melhor série já feita.<br/>
+   ⚡- The Witcher 3 é o melhor jogo do século.<br/>
+   ⚡- Pearl Jam é a melhor bando do universo.<br/>
+
+##
 
 ![Snake animation](https://github.com/KaduComC/KaduComC/blob/output/github-contribution-grid-snake.svg)
 
