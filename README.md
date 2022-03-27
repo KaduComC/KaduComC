@@ -36,7 +36,7 @@ Um pouco sobre mim:<br/>
    ⚡- Gosto muito de ler, FUNDAÇÃO, Torre Negra e Senhor dos Anéis são meus livros favoritos.<br/>
    ⚡- How I Met Your Mother é a melhor série já feita.<br/>
    ⚡- The Witcher 3 é o melhor jogo do século.<br/>
-   ⚡- Pearl Jam é a melhor bando do universo.<br/>
+   ⚡- Pearl Jam é a melhor banda do universo.<br/>
 
 ##
 
