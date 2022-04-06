@@ -10,6 +10,8 @@
 <div align="center" valign="top"><br/>
    <img align="center" alt="Java" height="48" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg">
    <img align="center" alt="Java" height="48" width="40" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg">
+   <img align="center" alt="Java" height="48" width="40" src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg">
+   <img align="center" alt="Java" height="48" width="40" src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original-wordmark.svg">
 </div>
 
 ##
@@ -19,7 +21,7 @@ I am a student of the Information Systems course at the State University of Goi�
 <br/>
 A little about me:<br/>
    💼- I worked at the company SIGMA Sistemas, located in the city of Itaberaí.<br/>
-   📘- Currently studying Python.<br/>
+   📘- Currently studying Dart / Flutter.<br>
    ⚡- I love to read, FOUNDATION, Dark Tower and Lord of the Rings are my favorite books.<br/>
    ⚡- How I Met Your Mother is the best series ever made.<br/>
    ⚡- The Witcher 3 is the best game of the century.<br/>
@@ -32,7 +34,7 @@ Sou estudante do curso de Sistemas de Informação na Universidade Estadual de G
 <br/>
 Um pouco sobre mim:<br/>
    💼- Estagiei na empresa SIGMA Sistemas, localizada na cidade de Itaberaí.<br/>
-   📘- Atualmente estudando Python.<br/>
+   📘- Atualmente estudando Dart / Flutter.<br/>
    ⚡- Gosto muito de ler, FUNDAÇÃO, Torre Negra e Senhor dos Anéis são meus livros favoritos.<br/>
    ⚡- How I Met Your Mother é a melhor série já feita.<br/>
    ⚡- The Witcher 3 é o melhor jogo do século.<br/>
