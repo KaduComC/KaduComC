@@ -1,7 +1,7 @@
 <div align="center">
    <a href="https://github.com/KaduComC">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=KaduComC&count_private=true&show_icons=true&theme=highcontrast" />
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaduComC&layout=compact&langs_count=16&theme=highcontrast" /> 
+    <img height="210em" src="https://github-readme-stats.vercel.app/api?username=KaduComC&count_private=true&show_icons=true&theme=highcontrast" />
+    <img height="210em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaduComC&layout=compact&langs_count=16&theme=highcontrast" /> 
    </a>
 </div>
   
